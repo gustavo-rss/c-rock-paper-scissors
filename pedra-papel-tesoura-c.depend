@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1593981181 source:d:\logica-de-programacao-danki\pedra-papel-tesoura-c\main.c
+	<stdio.h>
+	<stdlib.h>
+
